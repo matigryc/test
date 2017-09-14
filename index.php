@@ -1,5 +1,5 @@
 <?php
 
-echo "dziala";
+echo "dziala zmiana push";
 
 ?>
